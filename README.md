@@ -6,7 +6,7 @@
 
 # Laravel Google Search Console
 
-[![Tests](https://github.com/jeffersongoncalves/laravel-google-search-console/actions/workflows/run-tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-google-search-console/actions/workflows/run-tests.yml)
+[![Tests](https://github.com/jeffersongoncalves/laravel-google-search-console/actions/workflows/tests.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-google-search-console/actions/workflows/tests.yml)
 [![PHPStan](https://github.com/jeffersongoncalves/laravel-google-search-console/actions/workflows/phpstan.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-google-search-console/actions/workflows/phpstan.yml)
 [![Code Style](https://github.com/jeffersongoncalves/laravel-google-search-console/actions/workflows/fix-php-code-style-issues.yml/badge.svg)](https://github.com/jeffersongoncalves/laravel-google-search-console/actions/workflows/fix-php-code-style-issues.yml)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jeffersongoncalves/laravel-google-search-console.svg?style=flat-square)](https://packagist.org/packages/jeffersongoncalves/laravel-google-search-console)
